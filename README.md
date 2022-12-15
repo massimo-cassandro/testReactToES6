@@ -1,3 +1,5 @@
+# React to vanilla Test
+
 * https://blog.bitsrc.io/trying-rollup-for-react-applications-d3c2304d16bf
 * https://dev.to/steerclear90/can-a-react-app-be-rendered-in-different-non-react-webpages-3dgc
 * https://babeljs.io/docs/en/babel-preset-env
